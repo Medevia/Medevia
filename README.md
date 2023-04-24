@@ -14,5 +14,6 @@ Rejoignez notre communauté sur notre Discord ou notre forum pour discuter avec 
 
 
 ## **SITE** : https://medevia.net/
-
-https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white : https://discord.gg/medevia
+<a href="https://discord.gg/medevia">
+   <img src="https://img.shields.io/badge/Discord-7289DA?style=plastic&logo=discord&logoColor=white" alt="Discord"/>
+</a>
