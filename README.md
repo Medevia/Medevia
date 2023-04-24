@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://play-lh.googleusercontent.com/DTzWtkxfnKwFO3ruybY1SKjJQnLYeuK3KmQmwV5OQ3dULr5iXxeEtzBLceultrKTIUTr" width="100"/>
+</div>
+
 # Bienvenue sur le serveur Médévia!
 
 Notre serveur est un serveur **PvP Faction** qui tourne sur la version *1.8.9* avec un launcher moddé pour améliorer votre expérience de jeu. Nous avons mis en place un certain nombre de plugins et de mods pour offrir une **expérience de jeu unique et amusante** à nos joueurs.
